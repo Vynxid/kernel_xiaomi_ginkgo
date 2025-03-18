@@ -21,7 +21,7 @@ jobs:
         NAME: Loganysl
       with:
         arch: arm64
-        compiler: clang/10
+        compiler: clang/11
         defconfig: artemis_ginkgo_defconfig
         image: Image.gz-dtb
 
